@@ -1,4 +1,4 @@
-# esp8266mini
+# SH1106mini
 
 This is a library for the SH1106 based 128x64 pixel OLED display running on the Arduino Attiny platform.
 
