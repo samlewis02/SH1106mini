@@ -6,7 +6,7 @@ You can either download this library as a zip file and unpack it to your Arduino
 
 ## Usage
 
-The SH1106Demo is a very comprehensive example demonstrating the most important features of the library.
+The Spirit level example shows how to use the graphics capability of the library.
 
 ## Features
 
