@@ -6,7 +6,7 @@ You can either download this library as a zip file and unpack it to your Arduino
 
 ## Usage
 
-The Spirit level example shows how to use the graphics capability of the library.
+The Spirit level example shows how to use the graphics capability of the library. It makes use of the TinyWireM library.
 
 ## Features
 
